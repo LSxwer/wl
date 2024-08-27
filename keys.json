@@ -1,18 +1,1 @@
-{
-    "key_ca2f4f8d": {
-        "discord_id": "1253858600552632380",
-        "hwid": "dev"
-    },
-    "key_851437b0": {
-        "discord_id": "710486399744475136",
-        "hwid": "96593fdf424c29ec39c366c32ddceaf3bca0b1d9ca15c075446b3673f54e8d5e"
-    },
-    "key_c4b79ade": {
-        "discord_id": "852594924259770369",
-        "hwid": "c88c49a8765d36e407db5a18fa530a7dd6db4d658a645b91b49a601d304411e7"
-    },
-    "key_0a61e2e5": {
-        "discord_id": "733235962452115456",
-        "hwid": ""
-    }
-}
+{"key_ca2f4f8d": {"discord_id": "1253858600552632380", "hwid": "dev"}, "key_851437b0": {"discord_id": "710486399744475136", "hwid": "96593fdf424c29ec39c366c32ddceaf3bca0b1d9ca15c075446b3673f54e8d5e"}, "key_c4b79ade": {"discord_id": "852594924259770369", "hwid": "c88c49a8765d36e407db5a18fa530a7dd6db4d658a645b91b49a601d304411e7"}, "key_0a61e2e5": {"discord_id": "733235962452115456", "hwid": "b316c7ce5128399fdf048df7d33214c7ab3c52e05f73e1c3c025fea16f463542"}}
